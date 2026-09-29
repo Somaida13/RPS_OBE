@@ -1,0 +1,6 @@
+{
+  "name": "SIM-RPS OBE Universitas Komputama",
+  "description": "Sistem Informasi Penyusunan, Validasi OBE, dan Generator Dokumen Rencana Pembelajaran Semester (RPS) Resmi Fakultas Sains dan Teknologi Universitas Komputama (UNIKMA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
